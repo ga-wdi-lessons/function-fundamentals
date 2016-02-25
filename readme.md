@@ -37,5 +37,8 @@ function multiply( num1, num2 ){
 #### Calculator
 [Repo found here](https://github.com/ga-wdi-exercises/js-calculator-intro)
 
+#### Input, Output, Side Effects
+[Repo found Here](https://github.com/ga-wdi-exercises/input-output-SEs)
+
 #### FizzBuzz Redux
 [Repo found here](https://github.com/ga-wdi-exercises/fizzBuzz_redux)
