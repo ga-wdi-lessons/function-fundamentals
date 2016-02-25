@@ -28,8 +28,8 @@ function multiply( num1, num2 ){
   return num1 * num2;
 }
 ```
-* Output: return value.
-* Side Effects: e.g., print statements.
+* **Output:** return value.
+* **Side Effects:** `console.log` statements, DOM manipulation -- anything inside a function that changes state that is **NOT** the output.
 
 
 ### Exercises
